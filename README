@@ -1,1 +1,5 @@
-
+Crear usuario xmontoya
+sudo su
+sudo useradd xmnontoya
+introducir comando visudo
+dentro del archivo poner el usuario (xmontoya ALL=(ALL:ALL)ALL)
