@@ -1,4 +1,4 @@
-SPRINT 1
+SPRINT 1.
 En aquesta primera pràctica hem realitzat el hardening de la màquina virtual d'Ubuntu que usarem durant el curs. 
 Les mesures aplicades consisteixen en les regles del cis server 2 a més d'una sèrie de consells de l'Incibe. A més hem creat un usuari i asegurat les fonts d'actualitzacions
 
