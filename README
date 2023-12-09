@@ -11,3 +11,7 @@ SPRINT 3
 Per aquesta pràctica usarem el servidor instal·lat en l'assignatura de Serveis en Xarxa. Relitzarem el hardening del nostre servidor apache seguint un tutorial d'Incibe. 
 Començarem amb l'instal·lació (que ja hauriem de tenir) d'apache. Farem les configuracions globals necessàries i instalerem el modul mod_security.
 Posteriormente comprobaremos que la seguridad ya sido efectiva realizando un ataque DDOS
+
+SPRINT 4
+Per aquesta practica realitzarem l'instal·lació, configuració i hardening d'un servei ssh en el nostre servidor. Això ens permetrà configurar el nostre servidor de forma remota. 
+Degut a la naturalesa de l'aplicació (permet executar comandes a la shell) es necessari fer una configuració adequada i segura per evitar problemes a futur en el nostre servidor.
