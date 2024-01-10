@@ -15,3 +15,7 @@ Posteriormente comprobaremos que la seguridad ya sido efectiva realizando un ata
 SPRINT 4
 Per aquesta practica realitzarem l'instal·lació, configuració i hardening d'un servei ssh en el nostre servidor. Això ens permetrà configurar el nostre servidor de forma remota. 
 Degut a la naturalesa de l'aplicació (permet executar comandes a la shell) es necessari fer una configuració adequada i segura per evitar problemes a futur en el nostre servidor.
+
+SPRINT 5
+En aquesta pràctica hem de fer un escaneig de vulnerabilitats fent servir l'eina nmap. Primer ho farem a la màquina metasploit que destaca per tenir moltes deficiències i 
+després a la nostra màquina de seguretat per comparar les dues màquines i veure com ha millorat la nostra seguretat.
